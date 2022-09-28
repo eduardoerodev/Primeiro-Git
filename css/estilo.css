@@ -20,13 +20,17 @@
     align-items: center;
 }
 
+.logo p {    
+    color: var(--color-botao);    
+}
+
 
 h1 {
-    color:var(--color-fonte-principal);    
+    color:var(--color-fonte-principal);        
 }
 
 h2{
-    color: var(--color-botao);
+    color: var(--color-botao);    
 }
 
 
